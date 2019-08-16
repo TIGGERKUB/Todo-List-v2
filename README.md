@@ -1,2 +1,2 @@
 # Todo-List-v2
-This project is Todolist with database version then, deploy it to online by Heroku.
+This project is Todolist with MongDB database(MongoDB.Atlas) then, deploy online by Heroku.

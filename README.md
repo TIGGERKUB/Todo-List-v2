@@ -1,2 +1,2 @@
 # Todo-List-v2
-This project is Todolist with MongDB database(MongoDB.Atlas) then, deploy online by Heroku.
+The purpose of this project is record what to do in a day by using with MongDB database(MongoDB.Atlas) then, deploy online by Heroku.
